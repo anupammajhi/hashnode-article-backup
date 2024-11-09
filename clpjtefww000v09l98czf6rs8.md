@@ -1,5 +1,5 @@
 ---
-title: "GITHUB: Actions to publish Hashnode posts"
+title: "GITHUB: Actions to show latest Hashnode posts in Github"
 datePublished: Wed Nov 29 2023 13:40:44 GMT+0000 (Coordinated Universal Time)
 cuid: clpjtefww000v09l98czf6rs8
 slug: github-actions-to-publish-hashnode-posts
